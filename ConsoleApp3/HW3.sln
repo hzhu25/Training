@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workwithmethods", "Workwithmethods\Workwithmethods.csproj", "{D2E15259-0028-4BA4-98F9-ABF6CAD7ABBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPDesign", "OOPDesign\OOPDesign.csproj", "{272D671A-327A-4329-B0E9-D07F41F04D13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorBall", "ColorBall\ColorBall.csproj", "{47E7D69D-A354-462B-A354-1B31000A97D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2E15259-0028-4BA4-98F9-ABF6CAD7ABBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2E15259-0028-4BA4-98F9-ABF6CAD7ABBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2E15259-0028-4BA4-98F9-ABF6CAD7ABBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2E15259-0028-4BA4-98F9-ABF6CAD7ABBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{272D671A-327A-4329-B0E9-D07F41F04D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{272D671A-327A-4329-B0E9-D07F41F04D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{272D671A-327A-4329-B0E9-D07F41F04D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{272D671A-327A-4329-B0E9-D07F41F04D13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47E7D69D-A354-462B-A354-1B31000A97D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47E7D69D-A354-462B-A354-1B31000A97D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47E7D69D-A354-462B-A354-1B31000A97D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47E7D69D-A354-462B-A354-1B31000A97D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
